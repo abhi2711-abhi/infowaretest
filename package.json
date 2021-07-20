@@ -1,0 +1,17 @@
+{
+  "name": "lucent-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first.js",
+  "scripts": {
+    "start": "nodemon first.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "mongodb": "^4.0.0",
+    "mongoose": "^5.13.3"
+  }
+}
